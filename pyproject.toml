@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hypersphere-sampler"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package for sampling points on or inside hyperspheres and hyperellipsoids."
 readme = "README.md"
 license = { file = "LICENSE" }
